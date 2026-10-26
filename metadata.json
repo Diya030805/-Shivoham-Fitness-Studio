@@ -1,0 +1,6 @@
+{
+  "name": "Shivoham Fitness Studio - Kolkata",
+  "description": "Website concept for Shivoham Fitness Studio in Kalikapur, Santoshpur, Kolkata. Explore fitness training, studio facilities, and membership enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
